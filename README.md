@@ -33,4 +33,4 @@ snakegame/
 ⌨️ Controls- Arrow Keys – Move the snake (Up, Down, Left, Right)
 
 🧑‍💻 AuthorDivyansh
-Made with ❤️ in Jav
+Made with ❤️ in Java
